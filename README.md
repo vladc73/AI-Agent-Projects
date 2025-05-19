@@ -1,4 +1,4 @@
-# Hello, I'm Vladimir
+# Hello, 
 <a href="[https://www.linkedin.com/in/vladimir-clifton-96810529/]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I recently completed No-code AI Agent training with a profound interest in technology and a dedication to solving complex problems.
