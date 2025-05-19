@@ -22,6 +22,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Cybersecurity_Boot_Camp-007ACC?&style=for-the-badge&logo=ZTM_Academy&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Data_Analytics-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-AI_For_Everyone-007ACC?&style=for-the-badge&logo=DeepLearning.ai&logoColor=white" />
+<img src="https://img.shields.io/badge/-ChatGPT_Prompt_Engineering_for_Developers-FF0000?&style=for-the-badge&logo=DeepLearning.ai&logoColor=white" />
+<img src="https://img.shields.io/badge/-How_to_Build_your_own_Chatbot_using_Python-007ACC?&style=for-the-badge&logo=Greatlearning.com&logoColor=white" />    
 </div>
