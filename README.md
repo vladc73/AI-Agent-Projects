@@ -15,11 +15,13 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ## Tools
 <div>
     <img src="https://img.shields.io/badge/-N8N-1679A7?&style=for-the-badge&logo=N8N&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Process_Hacker-EF3B2D?&style=for-the-badge&logo=Process_Hacker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GeoIP2_Database-777BB4?&style=for-the-badge&logo=GeoIP2_Database&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Regshot-777BB4?&style=for-the-badge&logo=Regshot&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Procmon-777BB4?&style=for-the-badge&logo=Procmon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Airtable-EF3B2D?&style=for-the-badge&logo=Airtable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Replit-777BB4?&style=for-the-badge&logo=Replit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Telegram-777BB4?&style=for-the-badge&logo=Telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Anthropic_Chat_Model-777BB4?&style=for-the-badge&logo=Anthropic_Chat_Model&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenAI_Chat_Model-777BB4?&style=for-the-badge&logo=OpenAI_Chat_Model&logoColor=white" />
 </div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-AI_For_Everyone-007ACC?&style=for-the-badge&logo=DeepLearning.ai&logoColor=white" />
