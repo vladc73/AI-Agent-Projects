@@ -9,7 +9,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| N8N Full Tutorial: Building AI Agents           | <a href="https://github.com/vladc73/Malware-Analysis-Lab">N8N Full Tutorial: Building AI Agents </a>|
+| N8N Full Tutorial: Building AI Agents           | <a href="README.md">N8N Full Tutorial: Building AI Agents </a>|
 | Build Everything with AI Agents         | <a href="https://github.com/vladc73/Malware-Analysis-Lab">Build Everything with AI Agents</a>|
 
 ## Tools
