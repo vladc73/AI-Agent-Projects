@@ -7,9 +7,11 @@ I recently completed No-code AI Agent training with a profound interest in techn
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to  be a AI Agent Developer (no-code).
 
 ## Projects
-<a href="https://github.com/vladc73/N8N-Full-Tutorial-Building-AI-Agents-/blob/main/README.md">N8N Full Tutorial: Building AI Agents </a>|
-<a href="https://github.com/vladc73/Build-Everything-with-AI-Agents">Build Everything with AI Agents</a>|
-<a href="https://github.com/vladc73/Master-n8n-in-2-Hours/blob/main/README.md">Master n8n in 2 Hours: Complete Beginner’s Guide</a>|
+<a href="https://github.com/vladc73/N8N-Full-Tutorial-Building-AI-Agents-/blob/main/README.md">N8N Full Tutorial: Building AI Agents </a>
+
+<a href="https://github.com/vladc73/Build-Everything-with-AI-Agents">Build Everything with AI Agents</a>
+
+<a href="https://github.com/vladc73/Master-n8n-in-2-Hours/blob/main/README.md">Master n8n in 2 Hours: Complete Beginner’s Guide</a>
 
 ## Tools
 <div>
